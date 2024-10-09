@@ -1,0 +1,18 @@
+@font-face {
+    font-family: font-padrao;
+    src: url(assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+* {
+   background-color: #141414; 
+   font-family: font-padrao;
+}
+
+main {
+    background-color: #1F1F1F;
+    width: 500px;
+    height: 800px;
+  }
+  
+  main p, main a {
+    background-color: transparent; 
+}
